@@ -17,4 +17,4 @@ Gestionar un inventario de productos mediante una estructura de Árbol Binario d
 *(Aquí debes insertar las imágenes de tu consola funcionando)*
 
 ## Video de Sustentación
-[Link al video aquí]
+[Link al video aquí] https://youtu.be/u8oXIhp2l_4?si=D7IOJKzfkq6LvEAd
